@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ChedlyMar/react-projects.git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ChedlyMar/react-projects.git/static/js/main.32c67c11.chunk.js",
+    "main.js.map": "/ChedlyMar/react-projects.git/static/js/main.32c67c11.chunk.js.map",
+    "runtime-main.js": "/ChedlyMar/react-projects.git/static/js/runtime-main.feb2a8c0.js",
+    "runtime-main.js.map": "/ChedlyMar/react-projects.git/static/js/runtime-main.feb2a8c0.js.map",
+    "static/js/2.3de3e160.chunk.js": "/ChedlyMar/react-projects.git/static/js/2.3de3e160.chunk.js",
+    "static/js/2.3de3e160.chunk.js.map": "/ChedlyMar/react-projects.git/static/js/2.3de3e160.chunk.js.map",
+    "static/js/3.6e9527ba.chunk.js": "/ChedlyMar/react-projects.git/static/js/3.6e9527ba.chunk.js",
+    "static/js/3.6e9527ba.chunk.js.map": "/ChedlyMar/react-projects.git/static/js/3.6e9527ba.chunk.js.map",
+    "index.html": "/ChedlyMar/react-projects.git/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ChedlyMar/react-projects.git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.3de3e160.chunk.js.LICENSE.txt": "/ChedlyMar/react-projects.git/static/js/2.3de3e160.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ChedlyMar/react-projects.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.feb2a8c0.js",
+    "static/js/2.3de3e160.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.32c67c11.chunk.js"
+  ]
+}
